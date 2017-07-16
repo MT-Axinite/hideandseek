@@ -1,0 +1,1 @@
+Hides players nametags when they enter a zone
